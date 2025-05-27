@@ -1,0 +1,2 @@
+
+A aula de hoje será a *aula final* do nosso desenvolvimento da [[Carteirinha]]. Gostaria que vocês tirassem as últimas dúvidas de **CSS** para encerrarem e fazerem as entregas no Drive, seguindo a estrutura de sempre: `ativiades > carteirinha > entregas`
