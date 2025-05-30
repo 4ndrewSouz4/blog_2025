@@ -183,6 +183,11 @@ p{
         font-size: 1.5em;
     }
 
+    .game-link:hover{
+        border: 5px, solid, orange;
+        color: orange;
+    }
+
     .Nsegunds:hover{
         border: 5px, solid, orange;
         
